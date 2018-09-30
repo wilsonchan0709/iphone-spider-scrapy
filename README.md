@@ -1,4 +1,4 @@
-# iphone-scrapy-spider
+# Crawling iPhone data from jd.com
 Date: 30-Sep-2018
 
 Objective:
